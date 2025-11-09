@@ -1,6 +1,7 @@
 # 内容：🚀 节点选择
 
 # DOMAIN,seed.siri.apple.com
+DOMAIN,www.fedoraproject.org
 DOMAIN,lmspeed_dy.lmspeedapp.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ghio.com
